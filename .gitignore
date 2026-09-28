@@ -1,0 +1,34 @@
+# Jupyter auto-generated
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+env/
+
+# CatBoost training logs (auto-generated)
+catboost_info/
+
+# Large binary model files
+saved_models/
+
+# Large data files
+data/
+
+# Power BI exports
+power_bi_exports/
+
+# Scratch / temp files
+notebook_text.txt
+notebooks_text.txt
+scratch_nb.txt
+
+# Old/unused notebooks
+Not Needed/
+
+# IDE / local config
+.agents/
